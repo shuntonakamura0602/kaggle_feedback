@@ -50,4 +50,4 @@ feedbackに参加したときのkaggle日記
 
 ## 20221003
 * join!
-* discussion読んだ
+* discussion少し読んだ
