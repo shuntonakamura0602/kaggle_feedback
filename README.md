@@ -19,6 +19,7 @@ feedbackに参加したときのkaggle日記
 # paper
 * 参考にした論文の一覧
 
+# design
 * 分析設計
 
 問題の理解:textから6つの評価指標を予測する
